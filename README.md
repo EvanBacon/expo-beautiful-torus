@@ -6,9 +6,14 @@
 <small><i>~ Jonathan Ive</i></small>
 
 
+
 <a href="https://testflight.apple.com/join/GuWeVkXJ">
 <img src="https://github.com/user-attachments/assets/491da8e3-ebb2-4b81-9585-82418a37f733" width="200px" />
 </a>
+
+## Launch your own
+
+[![Launch with Expo](https://github.com/expo/examples/blob/master/.gh-assets/launch.svg?raw=true)](https://launch.expo.dev/?github=https://github.com/expo/examples/tree/master/with-moti)
 
 ## Preview
 
